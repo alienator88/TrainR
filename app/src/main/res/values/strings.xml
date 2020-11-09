@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TrainR</string>
+    <string name="welcome">Welcome, User</string>
+    <string name="resDesc"></string>
+    <string name="main_page">http://www.jasestuart.com/resistance-exercise-database</string>
+    <string name="info_link_all">
+                                //http://www.jasestuart.com/exercise-database-biceps
+                                //http://www.jasestuart.com/exercise-database-triceps
+                                //http://www.jasestuart.com/exercise-database-forearms
+
+                                //http://www.jasestuart.com/exercise-database-shoulders
+                                //http://www.jasestuart.com/exercise-database-back
+
+                                //http://www.jasestuart.com/exercise-database-chest
+                                //http://www.jasestuart.com/exercise-database-abs
+
+                                //http://www.jasestuart.com/exercise-database-legs
+                                //http://www.jasestuart.com/exercise-database-calves
+
+                                //http://www.jasestuart.com/exercise-database-cardio
+
+                                </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>
